@@ -1,0 +1,20 @@
+.para {
+    background-color: #ffb6c1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.numtwo {
+    color: #1100ff;
+    font-size: 36px;
+}
+
+.numthree {
+    font-size: 24px;
+}
+
+.numfour {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+
+}
